@@ -8,8 +8,8 @@
 ![7](https://github.com/avi098/Avinash-Kumar-S/assets/95079993/e6efad85-6de7-4e55-9faf-71d16bf29074)
 ![8](https://github.com/avi098/Avinash-Kumar-S/assets/95079993/683c9fbf-8261-4015-85b4-79a6b8e2f59c)
 
-In this project, I've used NoSQL (MongoDB) for database which sends the data as a JSON file.
+In this project, I've used NoSQL (MongoDB) database which sends the data as a JSON file.
 
-I've have partitioned the social-media-web-application folder in a zip and to run, compress all the files in a single folder by unzip method.
+I've have partitioned the social-media-web-application folder in a 14 zip file because of large size and to run, compress all the 14 zip files in a single folder by unzip method.
 
 To run - go to frontend and type the command in terminal (npm start) and go to backend and type the command in terminal (node index.js) and the output will be shown in the localhost:3000
